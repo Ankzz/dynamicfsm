@@ -17,3 +17,7 @@ https://mvnrepository.com/artifact/com.github.ankzz/dynamicfsm/0.01
         <version>0.01</version>
     </dependency>
 ```
+
+### Find examples of usage of this library
+
+http://ankzz.github.io/easyfsm/
